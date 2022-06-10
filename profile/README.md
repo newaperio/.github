@@ -31,7 +31,7 @@ We also provide staff augmentation, so if your team is looking for developers or
 
 ### Our history and values:
 
-Logan Leger founded NewAperio in 2010 while a student at Louisiana State University. The company has grown steadily since to include multiple developers and designers prototyping, designing, and building apps for clients nationwide. 
+[Logan Leger](https://github.com/lleger) founded NewAperio in 2010 while a student at Louisiana State University. The company has grown steadily since to include multiple developers and designers prototyping, designing, and building apps for clients nationwide. 
 
 | Learning & Mentorship 📖 | Generosity 🎪 |
 | :--- | :--- |

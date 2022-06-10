@@ -45,7 +45,7 @@ We also provide staff augmentation, so if your team is looking for developers or
 | :--- | :--- |
 | Designing and building software should improve lives and reduce harm for all users, contributors, and affected people. | We hire highly skilled people and we trust their competence. We give people autonomy to do their best work.
 
-### Let's connect
+### Let’s connect
 
 Interested in working with our team on a project? Schedule a meeting with our founder [Logan here](https://savvycal.com/logan/chat). 
 

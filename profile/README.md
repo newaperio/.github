@@ -47,7 +47,7 @@ We also provide staff augmentation, so if your team is looking for developers or
 
 ### Let's connect
 
-Interested in working with our team on a project? Schedule a meeting with our founder, [Logan here](https://savvycal.com/logan/chat). 
+Interested in working with our team on a project? Schedule a meeting with our founder [Logan here](https://savvycal.com/logan/chat). 
 
 We seek talented people who share our core values and have a passion for their craft. Whether you are starting, pivoting, or advancing in your career, we welcome your application. 
 

@@ -1,8 +1,8 @@
-# We are NewAperio
+## We are NewAperio
 
 ![hero images](https://user-images.githubusercontent.com/1529366/173092313-2938e23d-8e4b-4d93-87f8-c827d38c4002.png)
 
-### What we do:
+### What we do
 
 We’re an agile, fully distributed team of developers and designers who sweat the details and take pride in our craft. We design and build web and mobile apps for clients in:
 
@@ -31,7 +31,7 @@ We also provide staff augmentation, so if your team is looking for developers or
 - UX Design
 - Design Systems
 
-### Our history and values:
+### Our history and values
 
 [Logan Leger](https://github.com/lleger) founded NewAperio in 2010 while a student at Louisiana State University. The company has grown steadily since to include multiple developers and designers prototyping, designing, and building apps for clients nationwide. 
 

@@ -18,18 +18,9 @@ We also provide staff augmentation, so if your team is looking for developers or
 
 ### We are experts in
 
-- Elixir
-- Phoenix
-- JavaScript
-- TypeScript
-- React
-- React Native
-- GraphQL
-- Postgres
-- Product Design Sprints
-- UI Design 
-- UX Design
-- Design Systems
+Elixir · Phoenix · JavaScript · TypeScript · React · React Native · GraphQL · Postgres
+
+Product Design Sprints · UI Design · UX Design · Design Systems
 
 ### Our history and values
 
@@ -37,7 +28,7 @@ We also provide staff augmentation, so if your team is looking for developers or
 
 | Learning & Mentorship 📖 | Generosity 🎪 |
 | :--- | :--- |
-| We value curiosity and life-long learning. We strive for continuous improvement and invest in each other's growth. | We give back to our community. Recently, that meant direct aid to people adversely affected by Hurricane Ida. |
+| We value curiosity and life-long learning. We strive for continuous improvement and invest in each other's growth.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | We give back to our community. Recently, that meant direct aid to people adversely affected by Hurricane Ida. |
 
 | Flexibility 🤸🏾 | Humanity 🧑🏼‍🤝‍🧑🏻 |
 | :--- | :--- |
@@ -45,7 +36,7 @@ We also provide staff augmentation, so if your team is looking for developers or
 
 | Craft 🪡 | Trust 🧠 |
 | :--- | :--- |
-| Designing and building software should improve lives and reduce harm for all users, contributors, and affected people. | We hire highly skilled people and we trust their competence. We give people autonomy to do their best work.
+| Designing and building software should improve lives and reduce harm for all users, contributors, and affected people.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | We hire highly skilled people and we trust their competence. We give people autonomy to do their best work.
 
 ### Let’s connect
 

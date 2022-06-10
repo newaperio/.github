@@ -5,6 +5,7 @@
 ### What we do:
 
 We’re an agile, fully distributed team of developers and designers who sweat the details and take pride in our craft. We design and build web and mobile apps for clients in:
+
 - Healthcare 🩺 🏥 💊
 - Fitness 👟🥦🏋🏽
 - Education 🏫 ✏️🎓

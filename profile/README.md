@@ -51,4 +51,4 @@ Interested in working with our team on a project? Schedule a meeting with our fo
 
 We seek talented people who share our core values and have a passion for their craft. Whether you are starting, pivoting, or advancing in your career, we welcome your application. 
 
-You can check out our work here on GitHub. You can also read case studies of our client work [here](https://newaperio.com/work).
+You can check out our work here on GitHub. You can also read case studies of our client work [on our website](https://newaperio.com/work).

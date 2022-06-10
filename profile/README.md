@@ -16,7 +16,8 @@ In addition to our work in these core industries, we have completed numerous pro
 
 We also provide staff augmentation, so if your team is looking for developers or designers with particular technical expertise, or for expanded capacity during a busy period, let’s connect.
 
-### We are experts in:
+### We are experts in
+
 - Elixir
 - Phoenix
 - JavaScript

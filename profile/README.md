@@ -26,17 +26,33 @@ Product Design Sprints · UI Design · UX Design · Design Systems
 
 [Logan Leger](https://github.com/lleger) founded NewAperio in 2010 while a student at Louisiana State University. The company has grown steadily since to include multiple developers and designers prototyping, designing, and building apps for clients nationwide. 
 
-| Learning & Mentorship 📖 | Generosity 🎪 |
-| :--- | :--- |
-| We value curiosity and life-long learning. We strive for continuous improvement and invest in each other's growth.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | We give back to our community. Recently, that meant direct aid to people adversely affected by Hurricane Ida. |
-
-| Flexibility 🤸🏾 | Humanity 🧑🏼‍🤝‍🧑🏻 |
-| :--- | :--- |
-| We approach problems with humility. Resilience and agility allow us to pivot quickly when something isn't working. | We value empathy, equity, and inclusion. When making decisions, people are our first priority. |
-
-| Craft 🪡 | Trust 🧠 |
-| :--- | :--- |
-| Designing and building software should improve lives and reduce harm for all users, contributors, and affected people.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | We hire highly skilled people and we trust their competence. We give people autonomy to do their best work.
+<table>
+  <tr></tr>  
+  <tr align="center">
+    <td><strong>Learning & Mentorship 📖</strong></td>
+    <td><strong>Generosity 🎪</strong></td>
+  </tr>
+  <tr>
+    <td>We value curiosity and life-long learning. We strive for continuous improvement and invest in each other's growth.</td>
+    <td>We give back to our community. Recently, that meant direct aid to people adversely affected by Hurricane Ida.</td>
+  </tr>
+  <tr align="center">
+    <td><strong>Flexibility 🤸🏾</strong></td>
+    <td><strong>Humanity 🧑🏼‍🤝‍🧑🏻</strong></td>
+  </tr>
+  <tr>
+    <td>We approach problems with humility. Resilience and agility allow us to pivot quickly when something isn't working.</td>
+    <td>We value empathy, equity, and inclusion. When making decisions, people are our first priority.</td>
+  </tr>
+  <tr align="center">
+    <td><strong>Craft 🪡</strong></td>
+    <td><strong>Trust 🧠</strong></td>
+  </tr>
+  <tr>
+    <td>Designing and building software should improve lives and reduce harm for all users, contributors, and affected people.</td>
+    <td>We hire highly skilled people and we trust their competence. We give people autonomy to do their best work.</td>
+  </tr>
+</table>
 
 ### Let’s connect
 
